@@ -217,14 +217,14 @@ body{
   margin-left: 50px;
 }
 #pushbutton {
-  background-color: rgba(199, 0, 0, 0);
+  background-color: rgba(255, 0, 0, 0);
   position: absolute;
   z-index: 5;
   width: 30px;
   border: none;
   height: 30px;
-  margin-left: 700px;
-  margin-top: -236px;
+  margin-left: 616px;
+  margin-top: -208px;
   cursor: pointer;
 }
 
